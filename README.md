@@ -40,7 +40,7 @@
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/mohammadhashim135/Garbage-Classifier.git
+git clone https://github.com/Jayanth B/Garbage-Classifier.git
 cd your-repo-name
 ```
 ### **2. Create a Virtual Environment**
@@ -135,4 +135,4 @@ git push origin feature-branch
 ### **Open a Pull Request**
 ---
 
-💡 Developed with ❤️ by [Jayanth B](https://github.com/jayanthb2005/Jayanth-B-GarboVision-AI-
+💡 Developed with ❤️ by [Jayanth B](https://github.com/jayanthb2005/Jayanth-B-GarboVision-AI)
